@@ -50,7 +50,7 @@ Interact with the dashboard by using filters, sorting options, and other interac
 
 The dataset used in this project can be downloaded from the following link:
 
-Forbes AI 50 Dataset
+[Forbes AI 50 Dataset](https://github.com/PranavJakhmola/Forbes-AI-50-funding-Analysis-/blob/main/_ForbesAI50.xlsx)
 
 ## Notes
 
